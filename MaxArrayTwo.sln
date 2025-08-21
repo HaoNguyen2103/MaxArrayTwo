@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxArrayTwo", "MaxArrayTwo.csproj", "{630B6FCE-051C-1078-2B4F-98CD91F1E667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{630B6FCE-051C-1078-2B4F-98CD91F1E667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630B6FCE-051C-1078-2B4F-98CD91F1E667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630B6FCE-051C-1078-2B4F-98CD91F1E667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630B6FCE-051C-1078-2B4F-98CD91F1E667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C0A13D0-06AD-4455-A5BE-CFBD376EEEEA}
+	EndGlobalSection
+EndGlobal
